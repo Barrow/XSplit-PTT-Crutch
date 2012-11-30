@@ -1,5 +1,10 @@
 Update notes:
 
+Version 0.0.0.8
+	* Mini-patch notes now support multiple lines.
+	* Added the ability to bind a secondary hotkey.
+	* Minor code polish.
+
 Version 0.0.0.7
 	* Mini-patch notes when updating.
 
